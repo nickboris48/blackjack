@@ -1,0 +1,1 @@
+This repository holds my blackjack program. The initial commit is the first working version of the program, and future commits will include improvements to the program. 
